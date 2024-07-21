@@ -1,0 +1,34 @@
+/* TopNav.css */
+
+.topnav {
+    background-color: #f8f9fa; /* Adjust to match GUVI's blog header background color */
+    padding: 1rem 0;
+  }
+  
+  .username-container {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .username {
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+    background-color: #007bff; /* Blue background */
+    color: white; /* White text */
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  }
+  
+  .navimg {
+    margin-top: 1rem;
+  }
+  
+  .navimg img {
+    max-width: 90%;
+    height: auto;
+  }
+  
